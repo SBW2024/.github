@@ -1,12 +1,10 @@
-## Hi there 👋
+# Swedish Bioinformatics Workshop 2024
 
-<!--
+<img src="../SBW2024_logo_pink_final.svg" alt="alt text" width="400" />
 
-**Here are some ideas to get you started:**
+This is the repository for the Swedish Bioinformatics Workshop 2024, a bioinformatics conference from students, for students (and everyone else who is interested!). 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This year's instance will take place November 4th & 5th at The Swedish Agricultural University, in Uppsala, Schweden. 
+
+Stay tuned for more information, or contact us if you would like to join our organization team. 
+
